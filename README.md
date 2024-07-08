@@ -1,1 +1,0 @@
-# cordova-plugin-play-integrity-token-old

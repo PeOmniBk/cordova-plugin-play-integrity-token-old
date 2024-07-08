@@ -1,0 +1,17 @@
+{
+  "name": "com.azentio.playintegritytoken",
+  "version": "0.0.1",
+  "description": "getting integrity token from google play integrity token API",
+  "cordova": {
+    "id": "com.azentio.playintegritytoken",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Mustafa Shakaroun",
+  "license": "ISC"
+}
